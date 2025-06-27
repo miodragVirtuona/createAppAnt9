@@ -1,11 +1,11 @@
 #Store change to build properties file
-#Fri Jun 27 11:57:43 CEST 2025
+#Fri Jun 27 12:01:30 CEST 2025
 dev.solution.server=dev.virtuona.rs
-project.appontos.uri=http\://localhost/virtdev_scas/resources/TasorProjects/miodragTestingAppOntos
-service.tasor.url=http\://dev.virtuona.rs/virtdev/rdfTasor
 application.type=miodragTesting
+service.tasor.url=http\://dev.virtuona.rs/virtdev/rdfTasor
+project.appontos.uri=http\://localhost/virtdev_scas/resources/TasorProjects/miodragTestingAppOntos
 project.apptype.uri=http\://localhost/virtdev_scas/resources/TasorProjects/miodragTestingAppType
-application.version=01.04
+application.version=01.05
 account.pass=5cfQTS68pD
 project.appontos.default.uri=??BASE_APP_ONTOS_PROJECT_URI
 project.appkb.default.uri=??BASE_APP_KB_PROJECT_URI
